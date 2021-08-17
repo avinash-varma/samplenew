@@ -1,0 +1,376 @@
+{
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1629189764434,
+    "changeTime": 1629189764434,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "n",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1629189764434,
+    "changeTime": 1629189764434,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default",
+    "isDirectory": true,
+    "size": 480,
+    "modifiedTime": 1629190360926,
+    "changeTime": 1629190360926,
+    "contentHash": "2420936b22f3c881de460db5ee082d43dff6db91",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/applications": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/applications",
+    "isDirectory": true,
+    "size": 64,
+    "modifiedTime": 1629189764435,
+    "changeTime": 1629189764435,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/aura": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/aura",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1629190360921,
+    "changeTime": 1629190360921,
+    "contentHash": "71c20a341bfe32aa5cd5b4384e94f942bab6a7d3",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/classes": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/classes",
+    "isDirectory": true,
+    "size": 64,
+    "modifiedTime": 1629189764435,
+    "changeTime": 1629189764435,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/contentassets": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/contentassets",
+    "isDirectory": true,
+    "size": 64,
+    "modifiedTime": 1629189764435,
+    "changeTime": 1629189764435,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/flexipages": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/flexipages",
+    "isDirectory": true,
+    "size": 64,
+    "modifiedTime": 1629189764435,
+    "changeTime": 1629189764435,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/layouts": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/layouts",
+    "isDirectory": true,
+    "size": 160,
+    "modifiedTime": 1629190360922,
+    "changeTime": 1629190360922,
+    "contentHash": "bd3ae82f141e4e5c0b82ee81a151167c78da10c4",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/layouts/SampleNew__c-SampleNew Layout.layout-meta.xml": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/layouts/SampleNew__c-SampleNew Layout.layout-meta.xml",
+    "size": 2081,
+    "modifiedTime": 1629190360922,
+    "changeTime": 1629190360922,
+    "contentHash": "44cffabcf5bb780b72ee4c9bb6c90726eec60aca",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "Layout"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/layouts/Test1__c-Test1 Layout.layout-meta.xml": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/layouts/Test1__c-Test1 Layout.layout-meta.xml",
+    "size": 2089,
+    "modifiedTime": 1629190360922,
+    "changeTime": 1629190360922,
+    "contentHash": "6622a9c3974951c2628f7ad506c35bb5ba9bb734",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "Layout"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/layouts/Text_Sample__c-Text Sample Layout.layout-meta.xml": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/layouts/Text_Sample__c-Text Sample Layout.layout-meta.xml",
+    "size": 2083,
+    "modifiedTime": 1629190360923,
+    "changeTime": 1629190360923,
+    "contentHash": "4294303ca3058fcf570065e823aa7caa4f2544b8",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "Layout"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/lwc": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/lwc",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1629190360923,
+    "changeTime": 1629190360923,
+    "contentHash": "71c20a341bfe32aa5cd5b4384e94f942bab6a7d3",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects",
+    "isDirectory": true,
+    "size": 160,
+    "modifiedTime": 1629190360925,
+    "changeTime": 1629190360925,
+    "contentHash": "52e560acc77646459699a57fb4760296873594f5",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/SampleNew__c": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/SampleNew__c",
+    "isDirectory": true,
+    "size": 128,
+    "modifiedTime": 1629190360924,
+    "changeTime": 1629190360924,
+    "contentHash": "df32ee8a1ef9bbe55ce4d3796e054bb9fd68c707",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/SampleNew__c/SampleNew__c.object-meta.xml": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/SampleNew__c/SampleNew__c.object-meta.xml",
+    "size": 5166,
+    "modifiedTime": 1629190360924,
+    "changeTime": 1629190360924,
+    "contentHash": "bd62732ff3644b36559c79622fcfca7ee720ad7b",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "CustomObject"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/SampleNew__c/fields": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/SampleNew__c/fields",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1629190360924,
+    "changeTime": 1629190360924,
+    "contentHash": "e5bee5d9224d49c102015be6ca7e3b996850a496",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/SampleNew__c/fields/new1__c.field-meta.xml": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/SampleNew__c/fields/new1__c.field-meta.xml",
+    "size": 352,
+    "modifiedTime": 1629190360924,
+    "changeTime": 1629190360924,
+    "contentHash": "aaa00e589a2602e1160753bb3451f78dd728900f",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/Test1__c": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/Test1__c",
+    "isDirectory": true,
+    "size": 128,
+    "modifiedTime": 1629190360924,
+    "changeTime": 1629190360924,
+    "contentHash": "99ed92ff710bfccadf9ef5ede3960a12a99817b7",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/Test1__c/Test1__c.object-meta.xml": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/Test1__c/Test1__c.object-meta.xml",
+    "size": 5162,
+    "modifiedTime": 1629190360924,
+    "changeTime": 1629190360924,
+    "contentHash": "bb0124114fbc1871c37a53dd883dfd36c9141a5b",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "CustomObject"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/Test1__c/fields": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/Test1__c/fields",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1629190360925,
+    "changeTime": 1629190360925,
+    "contentHash": "a510deb617e3033e2a6ff71ca5c1eaf37f1dc9a4",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/Test1__c/fields/Test_example__c.field-meta.xml": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/Test1__c/fields/Test_example__c.field-meta.xml",
+    "size": 368,
+    "modifiedTime": 1629190360925,
+    "changeTime": 1629190360925,
+    "contentHash": "d8b099c0dc6a593584c448558ec463b9a9c43093",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/Text_Sample__c": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/Text_Sample__c",
+    "isDirectory": true,
+    "size": 128,
+    "modifiedTime": 1629190360925,
+    "changeTime": 1629190360925,
+    "contentHash": "e8708bee5c9612b74da697e4334e164dee76ed03",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/Text_Sample__c/Text_Sample__c.object-meta.xml": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/Text_Sample__c/Text_Sample__c.object-meta.xml",
+    "size": 5175,
+    "modifiedTime": 1629190360925,
+    "changeTime": 1629190360925,
+    "contentHash": "bb15c93eb04f9a832df6892e6c35f9e4123396ba",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "CustomObject"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/Text_Sample__c/fields": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/Text_Sample__c/fields",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1629190360925,
+    "changeTime": 1629190360925,
+    "contentHash": "790d106ef366a819d114984ca12ebbb29a7316e4",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/Text_Sample__c/fields/sample__c.field-meta.xml": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/objects/Text_Sample__c/fields/sample__c.field-meta.xml",
+    "size": 356,
+    "modifiedTime": 1629190360926,
+    "changeTime": 1629190360926,
+    "contentHash": "daa98331f77aff78cac48de5554f1b9e6add7aab",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/permissionsets": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/permissionsets",
+    "isDirectory": true,
+    "size": 64,
+    "modifiedTime": 1629189764435,
+    "changeTime": 1629189764435,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/profiles": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/profiles",
+    "isDirectory": true,
+    "size": 192,
+    "modifiedTime": 1629190360927,
+    "changeTime": 1629190360927,
+    "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/profiles/Admin.profile-meta.xml": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/profiles/Admin.profile-meta.xml",
+    "size": 22389,
+    "modifiedTime": 1629190360926,
+    "changeTime": 1629190360926,
+    "contentHash": "12fac9a90b65266deebe2562079b98b375c8ef34",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+    "size": 5235,
+    "modifiedTime": 1629190360927,
+    "changeTime": 1629190360927,
+    "contentHash": "2c1d18fb7d51785cf64cb3c7471015960ce48398",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+    "size": 5235,
+    "modifiedTime": 1629190360927,
+    "changeTime": 1629190360927,
+    "contentHash": "2c1d18fb7d51785cf64cb3c7471015960ce48398",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+    "size": 5573,
+    "modifiedTime": 1629190360927,
+    "changeTime": 1629190360927,
+    "contentHash": "1f7b832edecef481e6e6f6661f488b654159a6a9",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/staticresources": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/staticresources",
+    "isDirectory": true,
+    "size": 64,
+    "modifiedTime": 1629189764435,
+    "changeTime": 1629189764435,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/tabs": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/tabs",
+    "isDirectory": true,
+    "size": 64,
+    "modifiedTime": 1629189764436,
+    "changeTime": 1629189764436,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/triggers": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew/force-app/main/default/triggers",
+    "isDirectory": true,
+    "size": 64,
+    "modifiedTime": 1629189764436,
+    "changeTime": 1629189764436,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew": {
+    "sourcePath": "/Users/avinashvarmamanthena/Desktop/Github/sfdxsample/samplenew/samplenew",
+    "isDirectory": true,
+    "size": 544,
+    "modifiedTime": 1629190456156,
+    "changeTime": 1629190456156,
+    "contentHash": "d8c2b2847a5fd4b9e26f8b11b26b6b3ef8ee74e7",
+    "state": "n",
+    "isWorkspace": true
+  }
+}

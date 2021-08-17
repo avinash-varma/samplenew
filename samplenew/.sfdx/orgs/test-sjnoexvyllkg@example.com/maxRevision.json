@@ -1,0 +1,83 @@
+{
+  "serverMaxRevisionCounter": 36,
+  "sourceMembers": {
+    "CustomField__Text_Sample__c.sample__c": {
+      "serverRevisionCounter": 7,
+      "lastRetrievedFromServer": 7,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Test1__c.Test_example__c": {
+      "serverRevisionCounter": 19,
+      "lastRetrievedFromServer": 19,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__SampleNew__c.new1__c": {
+      "serverRevisionCounter": 31,
+      "lastRetrievedFromServer": 31,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "Profile__Admin": {
+      "serverRevisionCounter": 36,
+      "lastRetrievedFromServer": 36,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Profile__Custom: Sales Profile": {
+      "serverRevisionCounter": 34,
+      "lastRetrievedFromServer": 34,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Profile__Custom: Marketing Profile": {
+      "serverRevisionCounter": 33,
+      "lastRetrievedFromServer": 33,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Profile__Custom: Support Profile": {
+      "serverRevisionCounter": 35,
+      "lastRetrievedFromServer": 35,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Layout__Text_Sample__c-Text Sample Layout": {
+      "serverRevisionCounter": 8,
+      "lastRetrievedFromServer": 8,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__Test1__c-Test1 Layout": {
+      "serverRevisionCounter": 20,
+      "lastRetrievedFromServer": 20,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__SampleNew__c-SampleNew Layout": {
+      "serverRevisionCounter": 32,
+      "lastRetrievedFromServer": 32,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "CustomObject__Text_Sample__c": {
+      "serverRevisionCounter": 6,
+      "lastRetrievedFromServer": 6,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "CustomObject__Test1__c": {
+      "serverRevisionCounter": 18,
+      "lastRetrievedFromServer": 18,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "CustomObject__SampleNew__c": {
+      "serverRevisionCounter": 30,
+      "lastRetrievedFromServer": 30,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    }
+  }
+}
